@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rajkumarjakkula/rentem.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rajkumarjakkula/rentem.git/static/js/main.c90f8a49.chunk.js",
+    "main.js.map": "/rajkumarjakkula/rentem.git/static/js/main.c90f8a49.chunk.js.map",
+    "runtime-main.js": "/rajkumarjakkula/rentem.git/static/js/runtime-main.3598c9d6.js",
+    "runtime-main.js.map": "/rajkumarjakkula/rentem.git/static/js/runtime-main.3598c9d6.js.map",
+    "static/js/2.8532016f.chunk.js": "/rajkumarjakkula/rentem.git/static/js/2.8532016f.chunk.js",
+    "static/js/2.8532016f.chunk.js.map": "/rajkumarjakkula/rentem.git/static/js/2.8532016f.chunk.js.map",
+    "index.html": "/rajkumarjakkula/rentem.git/index.html",
+    "precache-manifest.6ceba452b137997501443475a227a655.js": "/rajkumarjakkula/rentem.git/precache-manifest.6ceba452b137997501443475a227a655.js",
+    "service-worker.js": "/rajkumarjakkula/rentem.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rajkumarjakkula/rentem.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8532016f.chunk.js.LICENSE.txt": "/rajkumarjakkula/rentem.git/static/js/2.8532016f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rajkumarjakkula/rentem.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3598c9d6.js",
+    "static/js/2.8532016f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c90f8a49.chunk.js"
+  ]
+}
